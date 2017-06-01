@@ -1,0 +1,1 @@
+# nocms-varnish
